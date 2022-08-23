@@ -3,33 +3,20 @@
 namespace LicaoQuadrante {
     class Program {
         static void Main(string[] args) {
-            Conta();
-        }
-        static void Conta() {
+
+            Calculo calculo = new Calculo();
 
             string[] valores = Console.ReadLine().Split(' ');
-            int coordenadaX = int.Parse(valores[0]);
-            int coordenadaY = int.Parse(valores[1]);
+            int x = int.Parse(valores[0]);
+            int y = int.Parse(valores[1]);
+            while (x != 0 && y != 0) {
 
-            while (coordenadaX != 0 && coordenadaY != 0) {
-                if (coordenadaX > 0 && coordenadaY > 0) {
-                    Console.WriteLine("primeiro");
-                }
-                else if (coordenadaX < 0 && coordenadaY > 0) {
-                    Console.WriteLine("segundo");
-                }
-                else if (coordenadaX < 0 && coordenadaY < 0) {
-                    Console.WriteLine("terceiro");
-                }
-                else {
-                    Console.WriteLine("quarto");
+                Console.WriteLine("{0}", calculo.Conta(x, y));
 
-
-                }
                 valores = Console.ReadLine().Split(' ');
-                coordenadaX = int.Parse(valores[0]);
-                coordenadaY = int.Parse(valores[1]);
-            }
+                x = int.Parse(valores[0]);
+                y = int.Parse(valores[1]);
+            }       
         }
     }
 }

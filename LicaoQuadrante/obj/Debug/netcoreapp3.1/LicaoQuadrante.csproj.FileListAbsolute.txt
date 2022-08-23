@@ -12,3 +12,17 @@ C:\Users\015893631\source\repos\LicaoQuadrante\LicaoQuadrante\bin\Debug\netcorea
 C:\Users\015893631\source\repos\LicaoQuadrante\LicaoQuadrante\obj\Debug\netcoreapp3.1\LicaoQuadrante.dll
 C:\Users\015893631\source\repos\LicaoQuadrante\LicaoQuadrante\obj\Debug\netcoreapp3.1\LicaoQuadrante.pdb
 C:\Users\015893631\source\repos\LicaoQuadrante\LicaoQuadrante\obj\Debug\netcoreapp3.1\LicaoQuadrante.genruntimeconfig.cache
+C:\Users\015893631\source\repos\Licao23-08IBM\LicaoQuadrante\bin\Debug\netcoreapp3.1\LicaoQuadrante.exe
+C:\Users\015893631\source\repos\Licao23-08IBM\LicaoQuadrante\bin\Debug\netcoreapp3.1\LicaoQuadrante.deps.json
+C:\Users\015893631\source\repos\Licao23-08IBM\LicaoQuadrante\bin\Debug\netcoreapp3.1\LicaoQuadrante.runtimeconfig.json
+C:\Users\015893631\source\repos\Licao23-08IBM\LicaoQuadrante\bin\Debug\netcoreapp3.1\LicaoQuadrante.runtimeconfig.dev.json
+C:\Users\015893631\source\repos\Licao23-08IBM\LicaoQuadrante\bin\Debug\netcoreapp3.1\LicaoQuadrante.dll
+C:\Users\015893631\source\repos\Licao23-08IBM\LicaoQuadrante\bin\Debug\netcoreapp3.1\LicaoQuadrante.pdb
+C:\Users\015893631\source\repos\Licao23-08IBM\LicaoQuadrante\obj\Debug\netcoreapp3.1\LicaoQuadrante.csproj.AssemblyReference.cache
+C:\Users\015893631\source\repos\Licao23-08IBM\LicaoQuadrante\obj\Debug\netcoreapp3.1\LicaoQuadrante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\015893631\source\repos\Licao23-08IBM\LicaoQuadrante\obj\Debug\netcoreapp3.1\LicaoQuadrante.AssemblyInfoInputs.cache
+C:\Users\015893631\source\repos\Licao23-08IBM\LicaoQuadrante\obj\Debug\netcoreapp3.1\LicaoQuadrante.AssemblyInfo.cs
+C:\Users\015893631\source\repos\Licao23-08IBM\LicaoQuadrante\obj\Debug\netcoreapp3.1\LicaoQuadrante.csproj.CoreCompileInputs.cache
+C:\Users\015893631\source\repos\Licao23-08IBM\LicaoQuadrante\obj\Debug\netcoreapp3.1\LicaoQuadrante.dll
+C:\Users\015893631\source\repos\Licao23-08IBM\LicaoQuadrante\obj\Debug\netcoreapp3.1\LicaoQuadrante.pdb
+C:\Users\015893631\source\repos\Licao23-08IBM\LicaoQuadrante\obj\Debug\netcoreapp3.1\LicaoQuadrante.genruntimeconfig.cache
